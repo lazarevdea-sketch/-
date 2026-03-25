@@ -15,3 +15,5 @@ vless://e0a446bc-5e87-4a54-ac72-48462a0ca233@2.27.61.7:8443?flow=xtls-rprx-visio
 vless://1bbe9f28-b984-42b7-a708-e48162806105@146.185.209.100:8443?encryption=none&type=grpc&security=reality&mode=multi&sni=max.ru&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&sid=0123456789abcdef#[343ms Великобритания GB 🇬🇧 @vlesstrojan]
 
 vless://f47f521c-0c03-4911-9788-5ca0c2fcc73b@62.152.59.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=eh.vk.com&pbk=W35StMkmGPguLMNX8_ezl8Hm0NQ3MFR7rpcbWRrOCyY&sid=5FA44664f6a566d3#[1362ms Россия RU 🇷🇺 @vlesstrojan]
+
+vless://d08a63e7-dbea-4a36-a239-9f0b37a46b40@51.250.71.93:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=vTKyf5iqVUNQMjFJ6hzue665Ka3c-7hqVzy4zMzO3z8&sid=fbacbaea96b43f51&sni=ads.x5.ru&path=&host=&spx=/f4a86ce2faceccdf#[2788ms Россия RU 🇷🇺 @vlesstrojan]
